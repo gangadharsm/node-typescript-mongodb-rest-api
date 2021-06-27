@@ -1,0 +1,16 @@
+{
+  "name": "node-typescript-mongodb-rest-api",
+  "version": "1.0.0",
+  "description": "Build restful api with nodejs, typescript, mongodb ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "mongodb"
+  ],
+  "author": "Gangadhara",
+  "license": "MIT"
+}
